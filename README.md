@@ -1,5 +1,5 @@
 # **Gantt Manager** #
-A Gantt diagram manager implemented in Java and the Swing framework for the MYY301 Software Development course for the Dept of Computer Engineering and Science at the University of Ioannina
+A Gantt diagram manager implemented in Java and the Swing framework for the Software Development course for the Dept of Computer Engineering and Science at the University of Ioannina
 
 **Members** \
 Georgiou Nikolaos ([`nikgeorg`](https://github.com/nikgeorg)) \
